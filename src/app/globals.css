@@ -36,7 +36,7 @@
   .btn-cta {
     @apply bg-primary transition-all duration-300 px-4 rounded-[5px] h-[54px];
   }
-  .bg-primary {
+  .btn-primary {
     @apply bg-primary;
   }
   .bg-secondary {
