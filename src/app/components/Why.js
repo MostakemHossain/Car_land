@@ -1,3 +1,7 @@
 export default function Why() {
-  return <div>Why</div>;
+  return (
+    <section id="why" className="flex section items-center bg-green-300 ">
+      Why
+    </section>
+  );
 }

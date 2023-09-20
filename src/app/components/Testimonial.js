@@ -1,3 +1,10 @@
 export default function Testimonial() {
-  return <div>Testimonial</div>;
+  return (
+    <section
+      className="section flex items-center bg-blue-300"
+      id="testimonials"
+    >
+      Testimonial
+    </section>
+  );
 }
